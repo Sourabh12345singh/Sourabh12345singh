@@ -38,10 +38,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sourabh12345singh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sourabh's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh12345singh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sourabh12345singh&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -53,37 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourabh12345singh&theme=react-dark&hide_border=true&area=true&bg_color=0a0a0f&color=00f5ff&line=ff00ff&point=ffffff" alt="Activity Graph"/>
-</p>
-
----
-
-## 🗂️ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Sourabh12345singh/chatkara">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=chatkara&theme=radical&hide_border=true" alt="ChatKara"/>
-  </a>
-  <a href="https://github.com/Sourabh12345singh/Rag-nar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=Rag-nar&theme=radical&hide_border=true" alt="Rag-nar"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sourabh12345singh/resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=resume&theme=radical&hide_border=true" alt="Resume Analyzer"/>
-  </a>
-  <a href="https://github.com/Sourabh12345singh/News-AtoZ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=News-AtoZ&theme=radical&hide_border=true" alt="News-AtoZ"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sourabh12345singh/weatherApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=weatherApp&theme=radical&hide_border=true" alt="WeatherApp"/>
-  </a>
-  <a href="https://github.com/Sourabh12345singh/stockForesight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sourabh12345singh&repo=stockForesight&theme=radical&hide_border=true" alt="StockForesight"/>
-  </a>
 </p>
 
 ---
@@ -120,7 +89,7 @@
 - [ ] Master **Microservices Architecture**
 - [ ] Contribute to **5 Open Source Projects**
 - [ ] Build a **SaaS Product** from scratch
-- [ ] Learn **Rust** and **Go**
+- [ ] continue loving **JAVA**
 - [ ] Get **100+ GitHub Stars** across repositories
 
 ---
@@ -131,23 +100,18 @@
   <a href="https://www.linkedin.com/in/sourabh-rathore-3a6903289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:singhrathore.sourabh@gmail.com" target="_blank">
+  <a href="mailto:sourabh20092004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Sourabh12345singh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://codechef.com/profile/sourabhSingh" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://instagram.com/sourabh_singh_rathore" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+ 
 </p>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 fav Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
