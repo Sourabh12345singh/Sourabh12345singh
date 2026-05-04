@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+Backend+Specialist;Python+AI%2FML+Developer;Frontend+Enthusiast;Let's+build+something+amazing!&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00f5ff&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+Backend+Specialist;Python+AI%2FML+Developer;Frontend+Enthusiast;450%2B+DSA+on+CodeChef;Let's+build+something+amazing!&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=00f5ff&background=00000000" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,8 @@
 - 🌱 Learning **Advanced Spring Boot & Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Python, TypeScript, RAG, Socket.IO**
-- 📫 Reach me: **sourabh20092004@gmail.com**
+- 📫 Reach me: **singhrathore.sourabh@gmail.com**
+- 🏆 Solved **450+ DSA problems** on [CodeChef](https://codechef.com/profile/sourabhSingh)
 - ⚡ Fun fact: I debug with `print()` statements and I'm proud of it! 😄
 
 ---
@@ -103,6 +104,17 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://codechef.com/profile/sourabhSingh">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <img src="https://img.shields.io/badge/450%2B%20DSA%20Problems-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="450+ DSA"/>
+</p>
+
+---
+
 ## 🎯 Current Goals
 
 - [ ] Master **Microservices Architecture**
@@ -116,7 +128,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sourabh-singh-rathore" target="_blank">
+  <a href="https://www.linkedin.com/in/sourabh-rathore-3a6903289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:singhrathore.sourabh@gmail.com" target="_blank">
@@ -124,6 +136,9 @@
   </a>
   <a href="https://github.com/Sourabh12345singh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codechef.com/profile/sourabhSingh" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://instagram.com/sourabh_singh_rathore" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
